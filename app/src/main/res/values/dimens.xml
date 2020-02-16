@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="cut_margin">51dp</dimen>
+    <dimen name="add_width">75dp</dimen>
+    <dimen name="shopcar_height">65dp</dimen>
+</resources>
